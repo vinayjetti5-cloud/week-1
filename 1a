@@ -1,0 +1,32 @@
+: Study of Network devices in detail and connect the computers in Local Area Network.
+Apparatus(Software): No software or hardware needed.
+
+Procedure: following should be done to understand this practical.
+
+1.	Repeater: Functioning at Physical Layer. A repeater is an electronic device that receives a  signal and retransmits it at a higher level and/or higher power, or onto the other side of an obstruction, so that the signal can cover longer distances. Repeater have two ports, so can not be use to connect for more than two devices.
+
+
+2.	Hub: An Ethernet hub, active hub, network hub, repeater hub, hubor concentrator is a device for connecting multiple twisted pair or fiber optic Ethernet devices together and making them act as a single network segment. Hubs work at the physical layer (layer 1) of the OSI model. The device is a form of multiport repeater. Repeater hubs also participate in collision detection, forwarding a jam signal to all ports if it detects a collision.
+
+
+
+3.	Switch: A network switch or switching hub is a computer networking device that connects network segments. The term commonly refers to a network bridge that processes and routes data at the data link layer (layer 2) of the OSI model.Switches that additionally process data at the network layer(layer3andabove)are often referred to as Layer 3switches or multi layer switches.     
+                                                                    Switch
+
+
+
+4.	Bridge: A network bridge connects multiple network segments at the data link layer (Layer 2) of the OSI model. In Ethernet networks, the term bridge formally means a device that behaves according to the IEEE 802.1D standard. A bridge and switch are very much alike; a switch being a bridge with numerous ports. Switch or Layer2 switch is often used interchangeably with bridge. Bridges can analyze incoming data packets to determine if the bridge is able to send the given packet to another segment of the network.
+
+
+5.	Router: A router is an electronic device that interconnects two or more computer networks, and selectively interchanges packets of data between them. Each data packet contains address information that a router can use to determine if the source and destination are on the same network, or if the data packet must be transferred from one network to another. Where multiple routers are used in a large collection of interconnected networks, the routers exchange information about target system addresses, so that each router can build up a table showing the preferred paths between any two systems on the interconnected networks.
+
+
+
+6. Gate Way: In a communications network, a network node equipped for interfacing with  
+     another network that uses different protocols.
+a.	A gateway may contain devices such as protocol translators, impedance matching devices, rate converters, fault isolators, or signal translators as necessary to provide system interoperability. It also requires the establishment of mutually acceptable administrative procedures between both networks.
+
+
+
+
+
